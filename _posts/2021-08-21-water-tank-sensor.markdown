@@ -162,29 +162,31 @@ OK so the math to calculate the gallons (or whatever unit of volume) is going to
 
 Our tank was a cylinder, so the formula for volume was 
 
-$$V = pi * r^2 * h$$
+$V = pi * r^2 * h$
 
 We measured:
 
-diameter = 27.3333 ft.
+circumference = 8.33m
 
-height (when full) = 11.25 ft.
+diameter = 2.65
 
-$$r = diameter / (2 * pi) $$
+height (when full) = 3.43m
+
+$r = diameter / (2 * pi) $
 
 So 
 
-$$V = pi * (diameter / (2 * pi))^2 * h$$
+$V = pi * (diameter / (2 * pi))^2 * h$
 
 We're looking for the Volume as a function of height, so we reduce the equation to volume and height. 
 
-Because we're putting the sensor above the water in the tank, $$Volume_{Current} = Volume_{Max} - Volume_{Sensor\ Distance}$$
+Because we're putting the sensor above the water in the tank, $Volume_{Current} = Volume_{Max} - Volume_{Sensor\ Distance}$
 
-We know the volume of our tank is 5000 gallons, so
+We know the volume of our tank is $8.93m^3$ gallons, so
 
-$$Volume_{Current} = 5000 - pi * (diameter / (2 * pi))^2 * sensor\ distance$$.
+$Volume_{Current} = 8.93m^3 - pi * (diameter / (2 * pi))^2 * sensor\ distance$
 
-Your sensor distance is going to be some fixed distance above the water, so when the tank is full figure out what the $$sensor\ distance$$ and adjust the constant such that both sides of the equation are equal when the tank is full.
+Your sensor distance is going to be some fixed distance above the water, so when the tank is full figure out what the $sensor\ distance$ is and adjust the constant such that both sides of the equation are equal when the tank is full.
 
 For me this simplifies to the values seen in the above code block.
 
