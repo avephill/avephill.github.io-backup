@@ -13,12 +13,14 @@ In the broadest terms, I am interested in the determinants of where plants belon
 In acknowledging that human decisions have, and will continue to play, an important role in setting the vegetation distributions of the future, a large suite of disciplines is necessary to map the vegetation of the coming decades and centuries, including traditional biogeography, climate change science, environmental ethics, urban ecology, environmental sociology, etc.
 
 ### General Methods
-I spend much of my time behind a computer, using R, QGIS, and Python to manipulate, analyze, and map geographic locations of plant species and vegetation types across the western U.S. I often source occurrence data from iNaturalist, GBIF, and the Forest Inventory Analysis and use species distribution modeling to answer questions regarding the shifts in plant distributions over time, their potential determinants, and their rates of change.
+I spend much of my time behind a computer, using R, QGIS, and Python to manipulate, analyze, and map geographic locations of plant species and vegetation types across the western U.S. I often source occurrence data from iNaturalist, GBIF, and the USFS Forest Inventory Analysis and use species distribution modeling to answer questions regarding the shifts in plant distributions over time, their potential determinants, and their rates of change.
 
 Outside of (but intimately connected to) this computational work I am interested in understanding the ethics surrounding interventionist conservation practices like <a href="https://en.wikipedia.org/wiki/Assisted_colonization" target="_blank">assisted colonization</a>.
 
 
 ### Publications
+
+  * <span>Hill, A. P. et al. [Low-elevation conifers in California's Sierra Nevada are out of equilibrium with climate.](https://doi.org/10.1093/pnasnexus/pgad004) *PNAS Nexus* (2023)</span>
 
   * <span>Hill, A. P. & Field, C. B. [Forest fires and climate-induced tree range shifts in the western US.](https://doi.org/10.1038/s41467-021-26838-z) *Nature Communications* (2021)</span>
   
