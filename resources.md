@@ -14,3 +14,4 @@ Some of my favorite free and open source software alternatives to popular progra
 
 ### San Francisco Bay Area
   * [Free food pantries, shelter, and healthcare](http://www.freeprintshop.org)
+  * [Radical Contacts List](https://slingshotcollective.org/california/)

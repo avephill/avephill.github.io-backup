@@ -3,19 +3,43 @@ layout: page
 title: Research
 image: /assets/images/researchimg.png
 ---
-### Motivation
-In the broadest terms, I am interested in the determinants of where plants belong. Though entirely entertwined, I think that these determinants can be differentiated as either biological or anthropogenic. At this point on the geologic timeline where humans have exerted influence over the entire biosphere, the distinction between biological and anthropogenic are tenuous— still, I find it useful to ask two questions in parallel when considering the determinants responsible for a plant growing in a particular place:
-1. What biological needs (water, light, nutrients) are satisfied and restrictions (competition, toxins, temperature extremes) absent at this location?
 
+<!-- <p align="center"><img src="/assets/images/research-factors2.png" width="100%"/></p> -->
+<br>
 
-2. What anthropogenic factors and decisions (resource extraction, conservation efforts, agriculture) are responsible for the conditions at this location?
+### Overview
+I am interested in the drivers of plant distributions in the near past, present, and future.
+Primarily, I use analytical methods to study the geographic impact of environmental forces (climate change, wildfire, etc.) on past and present vegetation. 
+I use normative methods to better understand the role of humans in shaping future vegetation.
+My work is largely based in California and western North America.
 
-In acknowledging that human decisions have, and will continue to play, an important role in setting the vegetation distributions of the future, a large suite of disciplines is necessary to map the vegetation of the coming decades and centuries, including traditional biogeography, climate change science, environmental ethics, urban ecology, environmental sociology, etc.
+<br>
 
-### General Methods
-I spend much of my time behind a computer, using R, QGIS, and Python to manipulate, analyze, and map geographic locations of plant species and vegetation types across the western U.S. I often source occurrence data from iNaturalist, GBIF, and the USFS Forest Inventory Analysis and use species distribution modeling to answer questions regarding the shifts in plant distributions over time, their potential determinants, and their rates of change.
+### Biogeography
+My major projects have explored vegetation-climate mismatch (VCM): a phenomenon where that strong relationship between the climate and vegetation of a locality is eroded due to climate change.
+I've specifically focused on the interactions between wildfire and VCM in the western U.S., and my most active project in this field is mapping VCM in the low-elevation conifer forests of California's Sierra Nevada.
+Our maps are the first step in a much larger exploration of the impacts of VCM on wildfire characteristics, species composition, and forest demographics.
 
-Outside of (but intimately connected to) this computational work I am interested in understanding the ethics surrounding interventionist conservation practices like <a href="https://en.wikipedia.org/wiki/Assisted_colonization" target="_blank">assisted colonization</a>.
+<p align="center"><img src="/assets/images/research-factors2.png" width="100%"/></p>
+
+<br>
+
+### Community Science
+Community scientists have contributed an unparalleled immensity of species observations to the scientific community at large.
+Since iNaturalist was launched in 2008, the amount of species records available to scientists has increased exponentially.
+I'm interested in leveraging the strengths---and understanding the limits---of community science data in producing biodiversity indicators for California ecosystems.
+
+Probably more significant than the data it produces, community science has the opportunity to connect people to their environment and the communities of scientists and land managers that shape land-use decisions.
+I'm building tools to help further engage community scientists with the data that they produce.
+
+<br>
+
+### Ethics
+What does it mean for a species to be 'native' to a location if the environmental conditions to which it's adapted are no longer present?
+In the face of impending ecological transitions, which species 'belong' in a rapidly changing environment, and what duty might land managers have to resist or facilitate transitions?
+Questions like these underpin all of my scientific work, and I use normative tools to try and address them.
+
+<br>
 
 
 ### Publications
