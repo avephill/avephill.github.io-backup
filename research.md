@@ -10,7 +10,7 @@ image: /assets/images/researchimg.png
 ### Overview
 I am interested in the drivers of plant distributions in the near past, present, and future.
 Primarily, I use analytical methods to study the geographic impact of environmental forces (climate change, wildfire, etc.) on past and present vegetation. 
-I use normative methods to better understand the role of humans in shaping future vegetation.
+I use philosophical methods to better understand the role of humans in shaping future vegetation.
 My work is largely based in California and western North America.
 
 <br>
@@ -26,7 +26,7 @@ Our maps are the first step in a much larger exploration of the impacts of VCM o
 
 ### Community Science
 Community scientists have contributed an unparalleled immensity of species observations to the scientific community at large.
-Since iNaturalist was launched in 2008, the amount of species records available to scientists has increased exponentially.
+Since [iNaturalist](https://www.inaturalist.org/) was launched in 2008, the amount of species records available to scientists has increased exponentially.
 I'm interested in leveraging the strengths---and understanding the limits---of community science data in producing biodiversity indicators for California ecosystems.
 
 Probably more significant than the data it produces, community science has the opportunity to connect people to their environment and the communities of scientists and land managers that shape land-use decisions.
@@ -37,7 +37,10 @@ I'm building tools to help further engage community scientists with the data tha
 ### Ethics
 What does it mean for a species to be 'native' to a location if the environmental conditions to which it's adapted are no longer present?
 In the face of impending ecological transitions, which species 'belong' in a rapidly changing environment, and what duty might land managers have to resist or facilitate transitions?
-Questions like these underpin all of my scientific work, and I use normative tools to try and address them.
+Questions like these underpin all of my scientific work, and I use philosophical methods to try and address them.
+
+I'm also interested in understanding the characteristics of effective and egalitarian land stewardship, and what it will take to actualize it across managed lands.
+I'm working with a group of Stanford students and postdocs, funded by the [McCoy Ethics, Society, and Technology Grant](https://ethicsinsociety.stanford.edu/tech-ethics/ethics-society-and-technology-hub/2022-collaborative-research-projects), to make a mini-documentary about the relationship between effective stewardship and land sovereignty, and the importance of diversity in conservation.
 
 <br>
 
