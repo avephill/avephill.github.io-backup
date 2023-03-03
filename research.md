@@ -49,7 +49,11 @@ I'm working with a group of Stanford students and postdocs, funded by the [McCoy
 
   * <span>Hill, A. P. et al. [Low-elevation conifers in California's Sierra Nevada are out of equilibrium with climate.](https://doi.org/10.1093/pnasnexus/pgad004) *PNAS Nexus* (2023)</span>
 
+  <!-- <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="142994470"></div> -->
+
   * <span>Hill, A. P. & Field, C. B. [Forest fires and climate-induced tree range shifts in the western US.](https://doi.org/10.1038/s41467-021-26838-z) *Nature Communications* (2021)</span>
+
+  <!-- <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="116928267"></div> -->
   
   * <span> Hill A. P, Field C. B., & Diffenbaugh N. S. ["Even Fire-Adapted Giant Sequoias Can't Withstand California's Megafires"](https://thehill.com/opinion/energy-environment/574763-even-fire-adapted-giant-sequoias-cant-withstand-californias) *The Hill* (2021)</span>
 
@@ -58,3 +62,16 @@ I'm working with a group of Stanford students and postdocs, funded by the [McCoy
   * <span> Berrang-Ford et al. ["A Systematic Global Stocktake of Evidence on Human Adaptation to Climate Change."](https://doi.org/10.1038/s41558-021-01170-y) *Nature Climate Change* (2021)</span>
   
   * <span>Hill, A. P. & Hadly, E. A. [Rethinking “Native” in the Anthropocene.](https://doi.org/10.3389/feart.2018.00096) *Front. Earth Sci.* 6, 96 (2018)</span>
+
+### In the Media
+
+  * <span>[The Forests of the Sierra Nevada Are Full of Zombies](https://www.sierraclub.org/sierra/forests-sierra-nevada-zombies-climate-change) *Sierra Magazine* (2023)</span>
+
+  * <span>[Stanford-led study reveals a fifth of California’s Sierra Nevada conifer forests are stranded in habitats that have grown too warm for them](https://news.stanford.edu/2023/02/28/zombie-forests/) *Stanford News* (2023)</span>
+
+  * <span>[The Heat Is On](https://stanfordmag.org/contents/the-heat-is-on) *The Stanford Magazine* (2021)</span>
+
+  * <span>[Stanford researchers reveal how wildfire accelerates forest changes](https://news.stanford.edu/2021/11/15/trees-on-the-move/) *Stanford News* (2021)</span>
+
+  * <span>[Global Study Finds Adaptation Progress Local Not Societal](https://www.kneedeeptimes.org/global-study-finds-adaptation-progress-local-not-societal/) *Knee-deep Times* (2021)</span>
+
