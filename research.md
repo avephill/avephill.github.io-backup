@@ -63,7 +63,11 @@ I'm working with a group of Stanford students and postdocs, funded by the [McCoy
   
   * <span>Hill, A. P. & Hadly, E. A. [Rethinking “Native” in the Anthropocene.](https://doi.org/10.3389/feart.2018.00096) *Front. Earth Sci.* 6, 96 (2018)</span>
 
+<br>
+
 ### In the Media
+
+  * <span>[Warming temperatures are creating 'zombie forests' in California](https://www.newscientist.com/article/2362602-warming-temperatures-are-creating-zombie-forests-in-california/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=environment) *New Scientist* (2023)</span>
 
   * <span>[The Forests of the Sierra Nevada Are Full of Zombies](https://www.sierraclub.org/sierra/forests-sierra-nevada-zombies-climate-change) *Sierra Magazine* (2023)</span>
 
