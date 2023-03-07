@@ -66,6 +66,7 @@ I'm working with a group of Stanford students and postdocs, funded by the [McCoy
 <br>
 
 ### In the Media
+  * <span>[Mapping California’s ‘Zombie’ Forests](https://www.nytimes.com/interactive/2023/03/06/climate/california-zombie-forests.html) *The New York Times* (2023)</span>
 
   * <span>[Warming temperatures are creating 'zombie forests' in California](https://www.newscientist.com/article/2362602-warming-temperatures-are-creating-zombie-forests-in-california/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=environment) *New Scientist* (2023)</span>
 
