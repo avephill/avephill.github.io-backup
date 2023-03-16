@@ -66,6 +66,10 @@ I'm working with a group of Stanford students and postdocs, funded by the [McCoy
 <br>
 
 ### In the Media
+No machine directory found for host.
+
+  * <span>[Climate is changing too quickly for the Sierra Nevada's 'zombie forests'](https://www.npr.org/2023/03/13/1162042220/climate-change-sierra-nevada-zombie-forests#:~:text=The%20team%20estimated%20that%20about,these%20trees%20%22zombie%20forests.%22) *NPR* (2023)</span>
+
   * <span>[Mapping California’s ‘Zombie’ Forests](https://www.nytimes.com/interactive/2023/03/06/climate/california-zombie-forests.html) *The New York Times* (2023)</span>
 
   * <span>[Warming temperatures are creating 'zombie forests' in California](https://www.newscientist.com/article/2362602-warming-temperatures-are-creating-zombie-forests-in-california/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=environment) *New Scientist* (2023)</span>
