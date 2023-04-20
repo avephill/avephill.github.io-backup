@@ -30,10 +30,14 @@ linkedin_username: avery-hill-phd-547099197
 # Add google scholar
 # Add CV
 
+google_analytics: G-W52N1GR1VZ
+
 # Build settings
 theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
