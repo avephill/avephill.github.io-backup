@@ -67,6 +67,8 @@ I'm working with a group of Stanford students and postdocs, funded by the [McCoy
 
 ### In the Media
 
+  * <span>[Millions of California trees are dying; Joshua trees are just the latest victims](https://www.latimes.com/california/story/2023-08-15/california-trees-are-dying-at-an-accelerated-pace) *LA Times* (2023)</span>
+
   * <span>[Climate is changing too quickly for the Sierra Nevada's 'zombie forests'](https://www.npr.org/2023/03/13/1162042220/climate-change-sierra-nevada-zombie-forests#:~:text=The%20team%20estimated%20that%20about,these%20trees%20%22zombie%20forests.%22) *NPR* (2023)</span>
 
   * <span>[Mapping California’s ‘Zombie’ Forests](https://www.nytimes.com/interactive/2023/03/06/climate/california-zombie-forests.html) *The New York Times* (2023)</span>
